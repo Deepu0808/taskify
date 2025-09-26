@@ -34,7 +34,7 @@ It helps users <b>add, manage, complete, and delete tasks</b> with a clean and r
 ![Completed Tasks](assets/completed-tasks.png)
 
 ### ❌ Delete Task
-![Delete Task](assets/delete-task.png)
+![Delete Task](assets/delete-tasks.png)
 
 ---
 
