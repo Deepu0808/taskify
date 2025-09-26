@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">✅ Taskify – To-Do List App</h1>
 
 <p align="center">
@@ -61,3 +62,7 @@ Deepika Lakshmi S
 📧 Web Development Enthusiast
 
 <p align="center"> Made with ❤️ using HTML, CSS, and JS </p> ```
+=======
+# taskify
+A lightweight task manager web app that saves tasks locally in your browser.
+>>>>>>> b77887b86b0a83702ec21775f27934bb05613e19
